@@ -19,5 +19,6 @@ int main() {
 	cout << "z3 = " << z3 << endl;
 
 	cin.get(); //* *// //ot jlyf ;lkzdnhmbda
+	//âôà³ğ³âïî³à
 	return 0;
 }
