@@ -18,6 +18,6 @@ int main() {
 	cout << "z2 = " << z2 << endl;
 	cout << "z3 = " << z3 << endl;
 
-	cin.get();
+	cin.get(); //*
 	return 0;
 }
